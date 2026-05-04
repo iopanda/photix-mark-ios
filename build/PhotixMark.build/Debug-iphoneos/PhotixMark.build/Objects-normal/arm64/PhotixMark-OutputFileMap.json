@@ -1,0 +1,609 @@
+{
+  "" : {
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.dia",
+    "emit-module-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-emit-module.dia",
+    "pch" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.swiftdeps"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/App/AppCoordinator.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppCoordinator~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/App/PhotixMarkApp.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/BrandLogoRepository.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/EXIFReader.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EXIFReader~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/ImageExporter.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageExporter~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/PHPickerRepresentable.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/PhotoLibraryImporter.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/BrandLogo.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogo~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ExifData.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifData~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ImageState.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageState~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ProcessorContext.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorContext~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ProcessorStep.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorStep~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/TemplateConfig.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfig~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/AlignmentProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/BlurProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/CGContextHelpers.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CGContextHelpers~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ConcatProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ConcatProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/CropProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CropProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/FlexLayoutProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/MarginProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MarginProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/MultiRichTextProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ResizeProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ResizeProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/RichTextProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RichTextProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/RoundedCornerProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ShadowProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ShadowProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/WatermarkProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Protocols/ImageProcessor.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessor~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/BatchProcessingService.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BatchProcessingService~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ExifNormalizer.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifNormalizer~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ImageProcessingService.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageProcessingService~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/LogoResolver.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoResolver~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ProcessorRegistry.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/TemplateRenderer.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRenderer~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/BlurBackgroundTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/CenteredWatermark2Template.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/CenteredWatermarkTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/FolderNameParamsTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/LogoCenteredTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/NikonBlurTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/NoProcessTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/SidebarWatermarkTemplate.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/Standard1Template.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard1Template~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/Standard2Template.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/Standard2Template~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/TemplateRegistry.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateRegistry~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/AppTheme.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/AppTheme~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/BrandLogoView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/BrandLogoView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/EditorView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/EditorViewModel.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/EditorViewModel~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ExifEditorView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ExifEditorView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/HomeView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/HomeViewModel.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ImageCarouselView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageCarouselView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ImagePreviewView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImagePreviewView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ImageSelectorView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ImageSelectorView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ProcessingProgressView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/TemplateCardView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateCardView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/TemplateConfigView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateConfigView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/TemplateSelectorView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/ToastView.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/ToastView~partial.swiftmodule"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Debug-iphoneos/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

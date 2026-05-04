@@ -1,0 +1,800 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA000001 /* PhotixMarkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000101 /* PhotixMarkApp.swift */; };
+		AA000002 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000102 /* AppCoordinator.swift */; };
+		AA000010 /* ExifData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000110 /* ExifData.swift */; };
+		AA000011 /* ImageState.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000111 /* ImageState.swift */; };
+		AA000012 /* ProcessorContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000112 /* ProcessorContext.swift */; };
+		AA000013 /* TemplateConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000113 /* TemplateConfig.swift */; };
+		AA000014 /* ProcessorStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000114 /* ProcessorStep.swift */; };
+		AA000015 /* BrandLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000115 /* BrandLogo.swift */; };
+		AA000016 /* PhotoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000116 /* PhotoItem.swift */; };
+		AA000020 /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000120 /* ImageProcessor.swift */; };
+		AA000024 /* CornerLabelCompositeProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000124 /* CornerLabelCompositeProcessor.swift */; };
+		AA000025 /* LogoCenteredBarProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000125 /* LogoCenteredBarProcessor.swift */; };
+		AA000026 /* CenteredLayoutProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000126 /* CenteredLayoutProcessor.swift */; };
+		AA000027 /* SidebarLayoutProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000127 /* SidebarLayoutProcessor.swift */; };
+		AA000028 /* NikonBlurCompositeProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000128 /* NikonBlurCompositeProcessor.swift */; };
+		AA000029 /* BlurBackgroundCompositeProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000129 /* BlurBackgroundCompositeProcessor.swift */; };
+		AA000030 /* BlurProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000130 /* BlurProcessor.swift */; };
+		AA000031 /* ShadowProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000131 /* ShadowProcessor.swift */; };
+		AA000032 /* RoundedCornerProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000132 /* RoundedCornerProcessor.swift */; };
+		AA000033 /* MarginProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000133 /* MarginProcessor.swift */; };
+		AA000034 /* RichTextProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000134 /* RichTextProcessor.swift */; };
+		AA000035 /* MultiRichTextProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000135 /* MultiRichTextProcessor.swift */; };
+		AA000036 /* WatermarkProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000136 /* WatermarkProcessor.swift */; };
+		AA000037 /* ConcatProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000137 /* ConcatProcessor.swift */; };
+		AA000038 /* ResizeProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000138 /* ResizeProcessor.swift */; };
+		AA000039 /* CropProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000139 /* CropProcessor.swift */; };
+		AA000040 /* AlignmentProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000140 /* AlignmentProcessor.swift */; };
+		AA000041 /* FlexLayoutProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000141 /* FlexLayoutProcessor.swift */; };
+		AA000042 /* CGContextHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000142 /* CGContextHelpers.swift */; };
+		AA000050 /* TemplateRegistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000150 /* TemplateRegistry.swift */; };
+		AA000051 /* NoProcessTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000151 /* NoProcessTemplate.swift */; };
+		AA000052 /* Standard1Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000152 /* Standard1Template.swift */; };
+		AA000053 /* Standard2Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000153 /* Standard2Template.swift */; };
+		AA000054 /* LogoCenteredTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000154 /* LogoCenteredTemplate.swift */; };
+		AA000055 /* BlurBackgroundTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000155 /* BlurBackgroundTemplate.swift */; };
+		AA000056 /* NikonBlurTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000156 /* NikonBlurTemplate.swift */; };
+		AA000057 /* FolderNameParamsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000157 /* FolderNameParamsTemplate.swift */; };
+		AA000058 /* CenteredWatermarkTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000158 /* CenteredWatermarkTemplate.swift */; };
+		AA000059 /* CenteredWatermark2Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000159 /* CenteredWatermark2Template.swift */; };
+		AA000060 /* SidebarWatermarkTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000160 /* SidebarWatermarkTemplate.swift */; };
+		AA000070 /* ImageProcessingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000170 /* ImageProcessingService.swift */; };
+		AA000071 /* BatchProcessingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000171 /* BatchProcessingService.swift */; };
+		AA000072 /* ExifNormalizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000172 /* ExifNormalizer.swift */; };
+		AA000073 /* TemplateRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000173 /* TemplateRenderer.swift */; };
+		AA000074 /* LogoResolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000174 /* LogoResolver.swift */; };
+		AA000075 /* ProcessorRegistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000175 /* ProcessorRegistry.swift */; };
+		AA000080 /* EXIFReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000180 /* EXIFReader.swift */; };
+		AA000081 /* PHPickerRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000181 /* PHPickerRepresentable.swift */; };
+		AA000082 /* PhotoLibraryImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000182 /* PhotoLibraryImporter.swift */; };
+		AA000083 /* BrandLogoRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000183 /* BrandLogoRepository.swift */; };
+		AA000084 /* ImageExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000184 /* ImageExporter.swift */; };
+		AA000085 /* MacImageExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000185 /* MacImageExporter.swift */; };
+		AA000086 /* MacPhotoImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000186 /* MacPhotoImporter.swift */; };
+		AA000090 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000190 /* HomeView.swift */; };
+		AA000091 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000191 /* HomeViewModel.swift */; };
+		AA000092 /* EditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000192 /* EditorView.swift */; };
+		AA000093 /* EditorViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000193 /* EditorViewModel.swift */; };
+		AA000094 /* TemplateConfigView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000194 /* TemplateConfigView.swift */; };
+		AA000095 /* ExifEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000195 /* ExifEditorView.swift */; };
+		AA000096 /* BrandLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000196 /* BrandLogoView.swift */; };
+		AA000097 /* ProcessingProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000197 /* ProcessingProgressView.swift */; };
+		AA000098 /* ImageSelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000198 /* ImageSelectorView.swift */; };
+		AA0000A0 /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0001A0 /* ImageCarouselView.swift */; };
+		AA0000A1 /* ImagePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0001A1 /* ImagePreviewView.swift */; };
+		AA0000A2 /* TemplateSelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0001A2 /* TemplateSelectorView.swift */; };
+		AA0000A3 /* ToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0001A3 /* ToastView.swift */; };
+		AA0000A4 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0001A4 /* AppTheme.swift */; };
+		AA0000B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA0001B0 /* Assets.xcassets */; };
+		AA0000D0 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = AA0001D0 /* Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AA000101 /* PhotixMarkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotixMarkApp.swift; sourceTree = "<group>"; };
+		AA000102 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		AA000110 /* ExifData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExifData.swift; sourceTree = "<group>"; };
+		AA000111 /* ImageState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageState.swift; sourceTree = "<group>"; };
+		AA000112 /* ProcessorContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessorContext.swift; sourceTree = "<group>"; };
+		AA000113 /* TemplateConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateConfig.swift; sourceTree = "<group>"; };
+		AA000114 /* ProcessorStep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessorStep.swift; sourceTree = "<group>"; };
+		AA000115 /* BrandLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandLogo.swift; sourceTree = "<group>"; };
+		AA000116 /* PhotoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoItem.swift; sourceTree = "<group>"; };
+		AA000120 /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
+		AA000124 /* CornerLabelCompositeProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerLabelCompositeProcessor.swift; sourceTree = "<group>"; };
+		AA000125 /* LogoCenteredBarProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoCenteredBarProcessor.swift; sourceTree = "<group>"; };
+		AA000126 /* CenteredLayoutProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenteredLayoutProcessor.swift; sourceTree = "<group>"; };
+		AA000127 /* SidebarLayoutProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarLayoutProcessor.swift; sourceTree = "<group>"; };
+		AA000128 /* NikonBlurCompositeProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikonBlurCompositeProcessor.swift; sourceTree = "<group>"; };
+		AA000129 /* BlurBackgroundCompositeProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurBackgroundCompositeProcessor.swift; sourceTree = "<group>"; };
+		AA000130 /* BlurProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurProcessor.swift; sourceTree = "<group>"; };
+		AA000131 /* ShadowProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowProcessor.swift; sourceTree = "<group>"; };
+		AA000132 /* RoundedCornerProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornerProcessor.swift; sourceTree = "<group>"; };
+		AA000133 /* MarginProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarginProcessor.swift; sourceTree = "<group>"; };
+		AA000134 /* RichTextProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichTextProcessor.swift; sourceTree = "<group>"; };
+		AA000135 /* MultiRichTextProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiRichTextProcessor.swift; sourceTree = "<group>"; };
+		AA000136 /* WatermarkProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatermarkProcessor.swift; sourceTree = "<group>"; };
+		AA000137 /* ConcatProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatProcessor.swift; sourceTree = "<group>"; };
+		AA000138 /* ResizeProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizeProcessor.swift; sourceTree = "<group>"; };
+		AA000139 /* CropProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CropProcessor.swift; sourceTree = "<group>"; };
+		AA000140 /* AlignmentProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentProcessor.swift; sourceTree = "<group>"; };
+		AA000141 /* FlexLayoutProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlexLayoutProcessor.swift; sourceTree = "<group>"; };
+		AA000142 /* CGContextHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGContextHelpers.swift; sourceTree = "<group>"; };
+		AA000150 /* TemplateRegistry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateRegistry.swift; sourceTree = "<group>"; };
+		AA000151 /* NoProcessTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoProcessTemplate.swift; sourceTree = "<group>"; };
+		AA000152 /* Standard1Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Standard1Template.swift; sourceTree = "<group>"; };
+		AA000153 /* Standard2Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Standard2Template.swift; sourceTree = "<group>"; };
+		AA000154 /* LogoCenteredTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoCenteredTemplate.swift; sourceTree = "<group>"; };
+		AA000155 /* BlurBackgroundTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurBackgroundTemplate.swift; sourceTree = "<group>"; };
+		AA000156 /* NikonBlurTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikonBlurTemplate.swift; sourceTree = "<group>"; };
+		AA000157 /* FolderNameParamsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FolderNameParamsTemplate.swift; sourceTree = "<group>"; };
+		AA000158 /* CenteredWatermarkTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenteredWatermarkTemplate.swift; sourceTree = "<group>"; };
+		AA000159 /* CenteredWatermark2Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenteredWatermark2Template.swift; sourceTree = "<group>"; };
+		AA000160 /* SidebarWatermarkTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarWatermarkTemplate.swift; sourceTree = "<group>"; };
+		AA000170 /* ImageProcessingService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingService.swift; sourceTree = "<group>"; };
+		AA000171 /* BatchProcessingService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatchProcessingService.swift; sourceTree = "<group>"; };
+		AA000172 /* ExifNormalizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExifNormalizer.swift; sourceTree = "<group>"; };
+		AA000173 /* TemplateRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateRenderer.swift; sourceTree = "<group>"; };
+		AA000174 /* LogoResolver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoResolver.swift; sourceTree = "<group>"; };
+		AA000175 /* ProcessorRegistry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessorRegistry.swift; sourceTree = "<group>"; };
+		AA000180 /* EXIFReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EXIFReader.swift; sourceTree = "<group>"; };
+		AA000181 /* PHPickerRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PHPickerRepresentable.swift; sourceTree = "<group>"; };
+		AA000182 /* PhotoLibraryImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryImporter.swift; sourceTree = "<group>"; };
+		AA000183 /* BrandLogoRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandLogoRepository.swift; sourceTree = "<group>"; };
+		AA000184 /* ImageExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExporter.swift; sourceTree = "<group>"; };
+		AA000185 /* MacImageExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacImageExporter.swift; sourceTree = "<group>"; };
+		AA000186 /* MacPhotoImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacPhotoImporter.swift; sourceTree = "<group>"; };
+		AA000190 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		AA000191 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		AA000192 /* EditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditorView.swift; sourceTree = "<group>"; };
+		AA000193 /* EditorViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditorViewModel.swift; sourceTree = "<group>"; };
+		AA000194 /* TemplateConfigView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateConfigView.swift; sourceTree = "<group>"; };
+		AA000195 /* ExifEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExifEditorView.swift; sourceTree = "<group>"; };
+		AA000196 /* BrandLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandLogoView.swift; sourceTree = "<group>"; };
+		AA000197 /* ProcessingProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessingProgressView.swift; sourceTree = "<group>"; };
+		AA000198 /* ImageSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSelectorView.swift; sourceTree = "<group>"; };
+		AA0001A0 /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
+		AA0001A1 /* ImagePreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePreviewView.swift; sourceTree = "<group>"; };
+		AA0001A2 /* TemplateSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateSelectorView.swift; sourceTree = "<group>"; };
+		AA0001A3 /* ToastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastView.swift; sourceTree = "<group>"; };
+		AA0001A4 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
+		AA0001B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AA0001C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA0001D0 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		AA0002A0 /* PhotixMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotixMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA0003A0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AA0004A0 /* PhotixMark */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004B0 /* Sources */,
+				AA0001B0 /* Assets.xcassets */,
+				AA0001C0 /* Info.plist */,
+				AA0001D0 /* Localizable.xcstrings */,
+			);
+			path = PhotixMark;
+			sourceTree = "<group>";
+		};
+		AA0004B0 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004C0 /* App */,
+				AA0004D0 /* Domain */,
+				AA0004E0 /* Data */,
+				AA0004F0 /* Presentation */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		AA0004C0 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				AA000101 /* PhotixMarkApp.swift */,
+				AA000102 /* AppCoordinator.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		AA0004D0 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004D1 /* Models */,
+				AA0004D2 /* Protocols */,
+				AA0004D3 /* Processors */,
+				AA0004D4 /* Templates */,
+				AA0004D5 /* Services */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		AA0004D1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AA000110 /* ExifData.swift */,
+				AA000111 /* ImageState.swift */,
+				AA000112 /* ProcessorContext.swift */,
+				AA000113 /* TemplateConfig.swift */,
+				AA000114 /* ProcessorStep.swift */,
+				AA000115 /* BrandLogo.swift */,
+				AA000116 /* PhotoItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		AA0004D2 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				AA000120 /* ImageProcessor.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		AA0004D3 /* Processors */ = {
+			isa = PBXGroup;
+			children = (
+				AA000124 /* CornerLabelCompositeProcessor.swift */,
+				AA000125 /* LogoCenteredBarProcessor.swift */,
+				AA000126 /* CenteredLayoutProcessor.swift */,
+				AA000127 /* SidebarLayoutProcessor.swift */,
+				AA000128 /* NikonBlurCompositeProcessor.swift */,
+				AA000129 /* BlurBackgroundCompositeProcessor.swift */,
+				AA000130 /* BlurProcessor.swift */,
+				AA000131 /* ShadowProcessor.swift */,
+				AA000132 /* RoundedCornerProcessor.swift */,
+				AA000133 /* MarginProcessor.swift */,
+				AA000134 /* RichTextProcessor.swift */,
+				AA000135 /* MultiRichTextProcessor.swift */,
+				AA000136 /* WatermarkProcessor.swift */,
+				AA000137 /* ConcatProcessor.swift */,
+				AA000138 /* ResizeProcessor.swift */,
+				AA000139 /* CropProcessor.swift */,
+				AA000140 /* AlignmentProcessor.swift */,
+				AA000141 /* FlexLayoutProcessor.swift */,
+				AA000142 /* CGContextHelpers.swift */,
+			);
+			path = Processors;
+			sourceTree = "<group>";
+		};
+		AA0004D4 /* Templates */ = {
+			isa = PBXGroup;
+			children = (
+				AA000150 /* TemplateRegistry.swift */,
+				AA000151 /* NoProcessTemplate.swift */,
+				AA000152 /* Standard1Template.swift */,
+				AA000153 /* Standard2Template.swift */,
+				AA000154 /* LogoCenteredTemplate.swift */,
+				AA000155 /* BlurBackgroundTemplate.swift */,
+				AA000156 /* NikonBlurTemplate.swift */,
+				AA000157 /* FolderNameParamsTemplate.swift */,
+				AA000158 /* CenteredWatermarkTemplate.swift */,
+				AA000159 /* CenteredWatermark2Template.swift */,
+				AA000160 /* SidebarWatermarkTemplate.swift */,
+			);
+			path = Templates;
+			sourceTree = "<group>";
+		};
+		AA0004D5 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				AA000170 /* ImageProcessingService.swift */,
+				AA000171 /* BatchProcessingService.swift */,
+				AA000172 /* ExifNormalizer.swift */,
+				AA000173 /* TemplateRenderer.swift */,
+				AA000174 /* LogoResolver.swift */,
+				AA000175 /* ProcessorRegistry.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		AA0004E0 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004E1 /* EXIF */,
+				AA0004E2 /* Export */,
+				AA0004E3 /* Import */,
+				AA0004E4 /* Persistence */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		AA0004E1 /* EXIF */ = {
+			isa = PBXGroup;
+			children = (
+				AA000180 /* EXIFReader.swift */,
+			);
+			path = EXIF;
+			sourceTree = "<group>";
+		};
+		AA0004E2 /* Export */ = {
+			isa = PBXGroup;
+			children = (
+				AA000184 /* ImageExporter.swift */,
+				AA000185 /* MacImageExporter.swift */,
+			);
+			path = Export;
+			sourceTree = "<group>";
+		};
+		AA0004E3 /* Import */ = {
+			isa = PBXGroup;
+			children = (
+				AA000181 /* PHPickerRepresentable.swift */,
+				AA000182 /* PhotoLibraryImporter.swift */,
+				AA000186 /* MacPhotoImporter.swift */,
+			);
+			path = Import;
+			sourceTree = "<group>";
+		};
+		AA0004E4 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				AA000183 /* BrandLogoRepository.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		AA0004F0 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004F1 /* Components */,
+				AA0004F2 /* Screens */,
+				AA0004F3 /* Styles */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		AA0004F1 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				AA0001A0 /* ImageCarouselView.swift */,
+				AA0001A1 /* ImagePreviewView.swift */,
+				AA0001A2 /* TemplateSelectorView.swift */,
+				AA0001A3 /* ToastView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		AA0004F2 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				AA0004F4 /* BrandLogo */,
+				AA0004F5 /* Editor */,
+				AA0004F6 /* ExifEditor */,
+				AA0004F7 /* Home */,
+				AA0004F8 /* ImageSelector */,
+				AA0004F9 /* Progress */,
+				AA0004FA /* TemplateConfig */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		AA0004F3 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				AA0001A4 /* AppTheme.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+		AA0004F4 /* BrandLogo */ = {
+			isa = PBXGroup;
+			children = (
+				AA000196 /* BrandLogoView.swift */,
+			);
+			path = BrandLogo;
+			sourceTree = "<group>";
+		};
+		AA0004F5 /* Editor */ = {
+			isa = PBXGroup;
+			children = (
+				AA000192 /* EditorView.swift */,
+				AA000193 /* EditorViewModel.swift */,
+			);
+			path = Editor;
+			sourceTree = "<group>";
+		};
+		AA0004F6 /* ExifEditor */ = {
+			isa = PBXGroup;
+			children = (
+				AA000195 /* ExifEditorView.swift */,
+			);
+			path = ExifEditor;
+			sourceTree = "<group>";
+		};
+		AA0004F7 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				AA000190 /* HomeView.swift */,
+				AA000191 /* HomeViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		AA0004F8 /* ImageSelector */ = {
+			isa = PBXGroup;
+			children = (
+				AA000198 /* ImageSelectorView.swift */,
+			);
+			path = ImageSelector;
+			sourceTree = "<group>";
+		};
+		AA0004F9 /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				AA000197 /* ProcessingProgressView.swift */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		AA0004FA /* TemplateConfig */ = {
+			isa = PBXGroup;
+			children = (
+				AA000194 /* TemplateConfigView.swift */,
+			);
+			path = TemplateConfig;
+			sourceTree = "<group>";
+		};
+		AA0005A0 = {
+			isa = PBXGroup;
+			children = (
+				AA0004A0 /* PhotixMark */,
+				AA0002A0 /* PhotixMark.app */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AA0006A0 /* PhotixMark */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA0007A0 /* Build configuration list for PBXNativeTarget "PhotixMark" */;
+			buildPhases = (
+				AA0008A0 /* Sources */,
+				AA0003A0 /* Frameworks */,
+				AA0009A0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhotixMark;
+			productName = PhotixMark;
+			productReference = AA0002A0 /* PhotixMark.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AA000AAA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					AA0006A0 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = AA000BBB /* Build configuration list for PBXProject "PhotixMark" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hans",
+				"zh-Hant",
+				ja,
+				ko,
+			);
+			mainGroup = AA0005A0;
+			productRefGroup = AA0005A0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AA0006A0 /* PhotixMark */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AA0009A0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA0000B0 /* Assets.xcassets in Resources */,
+				AA0000D0 /* Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA0008A0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000001 /* PhotixMarkApp.swift in Sources */,
+				AA000002 /* AppCoordinator.swift in Sources */,
+				AA000010 /* ExifData.swift in Sources */,
+				AA000011 /* ImageState.swift in Sources */,
+				AA000012 /* ProcessorContext.swift in Sources */,
+				AA000013 /* TemplateConfig.swift in Sources */,
+				AA000014 /* ProcessorStep.swift in Sources */,
+				AA000015 /* BrandLogo.swift in Sources */,
+				AA000016 /* PhotoItem.swift in Sources */,
+				AA000020 /* ImageProcessor.swift in Sources */,
+				AA000024 /* CornerLabelCompositeProcessor.swift in Sources */,
+				AA000025 /* LogoCenteredBarProcessor.swift in Sources */,
+				AA000026 /* CenteredLayoutProcessor.swift in Sources */,
+				AA000027 /* SidebarLayoutProcessor.swift in Sources */,
+				AA000028 /* NikonBlurCompositeProcessor.swift in Sources */,
+				AA000029 /* BlurBackgroundCompositeProcessor.swift in Sources */,
+				AA000030 /* BlurProcessor.swift in Sources */,
+				AA000031 /* ShadowProcessor.swift in Sources */,
+				AA000032 /* RoundedCornerProcessor.swift in Sources */,
+				AA000033 /* MarginProcessor.swift in Sources */,
+				AA000034 /* RichTextProcessor.swift in Sources */,
+				AA000035 /* MultiRichTextProcessor.swift in Sources */,
+				AA000036 /* WatermarkProcessor.swift in Sources */,
+				AA000037 /* ConcatProcessor.swift in Sources */,
+				AA000038 /* ResizeProcessor.swift in Sources */,
+				AA000039 /* CropProcessor.swift in Sources */,
+				AA000040 /* AlignmentProcessor.swift in Sources */,
+				AA000041 /* FlexLayoutProcessor.swift in Sources */,
+				AA000042 /* CGContextHelpers.swift in Sources */,
+				AA000050 /* TemplateRegistry.swift in Sources */,
+				AA000051 /* NoProcessTemplate.swift in Sources */,
+				AA000052 /* Standard1Template.swift in Sources */,
+				AA000053 /* Standard2Template.swift in Sources */,
+				AA000054 /* LogoCenteredTemplate.swift in Sources */,
+				AA000055 /* BlurBackgroundTemplate.swift in Sources */,
+				AA000056 /* NikonBlurTemplate.swift in Sources */,
+				AA000057 /* FolderNameParamsTemplate.swift in Sources */,
+				AA000058 /* CenteredWatermarkTemplate.swift in Sources */,
+				AA000059 /* CenteredWatermark2Template.swift in Sources */,
+				AA000060 /* SidebarWatermarkTemplate.swift in Sources */,
+				AA000070 /* ImageProcessingService.swift in Sources */,
+				AA000071 /* BatchProcessingService.swift in Sources */,
+				AA000072 /* ExifNormalizer.swift in Sources */,
+				AA000073 /* TemplateRenderer.swift in Sources */,
+				AA000074 /* LogoResolver.swift in Sources */,
+				AA000075 /* ProcessorRegistry.swift in Sources */,
+				AA000080 /* EXIFReader.swift in Sources */,
+				AA000081 /* PHPickerRepresentable.swift in Sources */,
+				AA000082 /* PhotoLibraryImporter.swift in Sources */,
+				AA000083 /* BrandLogoRepository.swift in Sources */,
+				AA000084 /* ImageExporter.swift in Sources */,
+				AA000085 /* MacImageExporter.swift in Sources */,
+				AA000086 /* MacPhotoImporter.swift in Sources */,
+				AA000090 /* HomeView.swift in Sources */,
+				AA000091 /* HomeViewModel.swift in Sources */,
+				AA000092 /* EditorView.swift in Sources */,
+				AA000093 /* EditorViewModel.swift in Sources */,
+				AA000094 /* TemplateConfigView.swift in Sources */,
+				AA000095 /* ExifEditorView.swift in Sources */,
+				AA000096 /* BrandLogoView.swift in Sources */,
+				AA000097 /* ProcessingProgressView.swift in Sources */,
+				AA000098 /* ImageSelectorView.swift in Sources */,
+				AA0000A0 /* ImageCarouselView.swift in Sources */,
+				AA0000A1 /* ImagePreviewView.swift in Sources */,
+				AA0000A2 /* TemplateSelectorView.swift in Sources */,
+				AA0000A3 /* ToastView.swift in Sources */,
+				AA0000A4 /* AppTheme.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AA000CC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_CYCLES = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AA000CC2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_CYCLES = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA000DD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = NQP8WK7596;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PhotixMark/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Photix Mark";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iopanda;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.iopanda.photixmark.photixmark;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.iopanda.photixmark.photixmark;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AA000DD2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = NQP8WK7596;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PhotixMark/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Photix Mark";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iopanda;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.iopanda.photixmark.photixmark;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.iopanda.photixmark.photixmark;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA0007A0 /* Build configuration list for PBXNativeTarget "PhotixMark" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA000DD1 /* Debug */,
+				AA000DD2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AA000BBB /* Build configuration list for PBXProject "PhotixMark" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA000CC1 /* Debug */,
+				AA000CC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AA000AAA /* Project object */;
+}

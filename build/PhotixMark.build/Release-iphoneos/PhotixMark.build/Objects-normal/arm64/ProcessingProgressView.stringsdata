@@ -1,0 +1,24 @@
+{
+  "source": "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Progress/ProcessingProgressView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld / %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Processing %lld / %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

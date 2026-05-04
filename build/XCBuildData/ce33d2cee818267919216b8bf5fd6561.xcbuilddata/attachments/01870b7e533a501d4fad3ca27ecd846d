@@ -1,0 +1,306 @@
+{
+  "" : {
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.dia",
+    "emit-module-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-emit-module.dia",
+    "pch" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.swiftdeps"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/App/AppCoordinator.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppCoordinator.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/App/PhotixMarkApp.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMarkApp.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/EXIF/EXIFReader.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EXIFReader.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EXIFReader.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EXIFReader.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/Export/ImageExporter.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageExporter.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageExporter.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageExporter.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/Import/PHPickerRepresentable.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PHPickerRepresentable.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/Import/PhotoLibraryImporter.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotoLibraryImporter.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Data/Persistence/BrandLogoRepository.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoRepository.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/BrandLogo.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogo.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogo.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogo.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ExifData.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifData.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifData.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifData.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ImageState.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageState.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageState.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageState.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ProcessorContext.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorContext.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorContext.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorContext.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/ProcessorStep.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorStep.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorStep.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorStep.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Models/TemplateConfig.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfig.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfig.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfig.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/AlignmentProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AlignmentProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/BlurProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/CGContextHelpers.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CGContextHelpers.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ConcatProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ConcatProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/CropProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CropProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CropProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CropProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/FlexLayoutProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FlexLayoutProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/MarginProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MarginProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MarginProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MarginProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/MultiRichTextProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/MultiRichTextProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ResizeProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ResizeProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/RichTextProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RichTextProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/RoundedCornerProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/RoundedCornerProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/ShadowProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ShadowProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Processors/WatermarkProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/WatermarkProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Protocols/ImageProcessor.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessor.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessor.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessor.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/BatchProcessingService.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BatchProcessingService.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ExifNormalizer.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifNormalizer.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ImageProcessingService.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageProcessingService.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/LogoResolver.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoResolver.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoResolver.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoResolver.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/ProcessorRegistry.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessorRegistry.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Services/TemplateRenderer.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRenderer.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/BlurBackgroundTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BlurBackgroundTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/CenteredWatermark2Template.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermark2Template.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/CenteredWatermarkTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/CenteredWatermarkTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/FolderNameParamsTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/FolderNameParamsTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/LogoCenteredTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/LogoCenteredTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/NikonBlurTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NikonBlurTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/NoProcessTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/NoProcessTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/SidebarWatermarkTemplate.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/SidebarWatermarkTemplate.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/Standard1Template.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard1Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard1Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard1Template.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/Standard2Template.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard2Template.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard2Template.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/Standard2Template.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Domain/Templates/TemplateRegistry.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateRegistry.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Components/ImageCarouselView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageCarouselView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Components/ImagePreviewView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImagePreviewView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Components/TemplateSelectorView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateSelectorView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Components/ToastView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ToastView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ToastView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ToastView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/BrandLogo/BrandLogoView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/BrandLogoView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Editor/EditorView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Editor/EditorViewModel.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorViewModel.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorViewModel.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/EditorViewModel.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/ExifEditor/ExifEditorView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifEditorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifEditorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ExifEditorView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Home/HomeView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Home/HomeViewModel.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/HomeViewModel.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/ImageSelector/ImageSelectorView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ImageSelectorView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/Progress/ProcessingProgressView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/ProcessingProgressView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/TemplateConfig/TemplateConfigView.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/TemplateConfigView.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Styles/AppTheme.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppTheme.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppTheme.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/AppTheme.o"
+  },
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

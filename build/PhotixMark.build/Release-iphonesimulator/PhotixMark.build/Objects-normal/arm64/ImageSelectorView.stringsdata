@@ -1,0 +1,32 @@
+{
+  "source": "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/ImageSelector/ImageSelectorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select Photos",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apply (%lld)",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

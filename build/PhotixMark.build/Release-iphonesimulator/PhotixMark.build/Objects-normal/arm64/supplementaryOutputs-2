@@ -1,0 +1,12 @@
+{
+  "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/App/PhotixMarkApp.swift" : {
+    "abi-baseline-json" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark.abi.json",
+    "const-values" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.d",
+    "diagnostics" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-primary.dia",
+    "objc-header" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark-Swift.h",
+    "swiftdoc" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark.swiftdoc",
+    "swiftmodule" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark.swiftmodule",
+    "swiftsourceinfo" : "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/build/PhotixMark.build/Release-iphonesimulator/PhotixMark.build/Objects-normal/arm64/PhotixMark.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add beautiful EXIF watermarks to your photos — 100% on device." : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "美しいEXIF透かしを写真に追加 — 100%デバイス処理" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아름다운 EXIF 워터마크를 사진에 추가 — 100% 기기 내 처리" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "为你的照片添加精美 EXIF 水印 — 100% 本地处理" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "為你的照片添加精美 EXIF 浮水印 — 100% 本機處理" } }
+      }
+    },
+    "Apply" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "適用" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "적용" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "应用" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "套用" } }
+      }
+    },
+    "Apply (%lld)" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "適用 (%lld)" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "적용 (%lld)" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "应用 (%lld)" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "套用 (%lld)" } }
+      }
+    },
+    "Apply to All Photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべての写真に適用" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 사진에 적용" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "应用到所有照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "套用到所有照片" } }
+      }
+    },
+    "Apply to Selected…" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "選択した写真に適用…" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "선택한 사진에 적용…" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "应用到已选…" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "套用到已選…" } }
+      }
+    },
+    "Aperture" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "絞り" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "조리개" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "光圈" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "光圈" } }
+      }
+    },
+    "Auto-reads camera info" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "カメラ情報を自動読み込み" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "카메라 정보 자동 읽기" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "自动读取相机信息" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "自動讀取相機資訊" } }
+      }
+    },
+    "Background" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "背景" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "배경" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "背景" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "背景" } }
+      }
+    },
+    "Batch Process" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一括処理" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일괄 처리" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "批量处理" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "批次處理" } }
+      }
+    },
+    "Beautiful preset styles" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "美しいプリセットスタイル" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아름다운 프리셋 스타일" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "精美预设风格" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "精美預設風格" } }
+      }
+    },
+    "Blur" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ぼかし" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "흐림" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "模糊" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "模糊" } }
+      }
+    },
+    "Blur Radius: %@" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ぼかし半径：%@" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "흐림 반경: %@" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "模糊半径：%@" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "模糊半徑：%@" } }
+      }
+    },
+    "Brand" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ブランド" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "브랜드" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "品牌" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "品牌" } }
+      }
+    },
+    "Brand Logo" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ブランドロゴ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "브랜드 로고" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "品牌 Logo" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "品牌 Logo" } }
+      }
+    },
+    "Camera" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "カメラ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "카메라" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "相机" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "相機" } }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "キャンセル" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "취소" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "取消" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "取消" } }
+      }
+    },
+    "Change" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "変更" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "변경" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "更换" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "更換" } }
+      }
+    },
+    "Colors" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "カラー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "색상" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "颜色" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "顏色" } }
+      }
+    },
+    "Date & Time" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "日付と時刻" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "날짜 및 시간" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "日期与时间" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "日期與時間" } }
+      }
+    },
+    "Date / Time" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "日付 / 時刻" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "날짜 / 시간" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "日期 / 时间" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "日期 / 時間" } }
+      }
+    },
+    "Default Logo" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "デフォルトロゴ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기본 로고" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "默认 Logo" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "預設 Logo" } }
+      }
+    },
+    "Detected Brands" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "検出されたブランド" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "감지된 브랜드" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已检测品牌" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已偵測品牌" } }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "完了" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "완료" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "完成" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "完成" } }
+      }
+    },
+    "Done! %lld photo(s) processed" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "完了！%lld 枚の写真を処理しました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "완료! %lld장 처리됨" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "完成！已处理 %lld 张照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "完成！已處理 %lld 張照片" } }
+      }
+    },
+    "Edit EXIF" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "EXIFを編集" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "EXIF 편집" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "编辑 EXIF" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "編輯 EXIF" } }
+      }
+    },
+    "Enable Shadow" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "影を有効にする" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그림자 활성화" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "启用阴影" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "啟用陰影" } }
+      }
+    },
+    "EXIF Metadata" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "EXIFメタデータ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "EXIF 메타데이터" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "EXIF 数据" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "EXIF 資料" } }
+      }
+    },
+    "Export" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "書き出し" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "내보내기" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "导出" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "匯出" } }
+      }
+    },
+    "Exposure" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "露出" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "노출" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "曝光" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "曝光" } }
+      }
+    },
+    "Focal Length" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "焦点距離" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "초점 거리" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "焦距" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "焦距" } }
+      }
+    },
+    "Handle multiple photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "複数の写真を同時処理" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "여러 사진 동시 처리" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "同时处理多张照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "同時處理多張照片" } }
+      }
+    },
+    "Import from Photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "写真から読み込む" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진 앱에서 가져오기" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "从相册导入" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "從相簿匯入" } }
+      }
+    },
+    "Import photos to get started" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "写真を読み込んで開始" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진을 가져와 시작하세요" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "导入照片以开始" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "匯入照片以開始" } }
+      }
+    },
+    "ISO" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ISO" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "ISO" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "ISO" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "ISO" } }
+      }
+    },
+    "Layout" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "レイアウト" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "레이아웃" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "布局" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "版面" } }
+      }
+    },
+    "Lens" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "レンズ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "렌즈" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "镜头" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "鏡頭" } }
+      }
+    },
+    "Logo" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ロゴ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로고" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "Logo" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "Logo" } }
+      }
+    },
+    "Model" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "モデル" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모델" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "型号" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "型號" } }
+      }
+    },
+    "No brands detected in imported photos." : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "読み込んだ写真にブランド情報が見つかりませんでした" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가져온 사진에서 브랜드 정보를 감지하지 못했습니다" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未在导入的照片中检测到品牌信息" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "未在匯入的照片中偵測到品牌資訊" } }
+      }
+    },
+    "No data leaves your device" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "データはデバイス外に送信されません" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "데이터가 기기 밖으로 나가지 않습니다" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "数据不离开你的设备" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "資料不會離開你的裝置" } }
+      }
+    },
+    "Nothing to export" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "書き出せるものがありません" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "내보낼 항목이 없습니다" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "没有可导出的内容" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "沒有可匯出的內容" } }
+      }
+    },
+    "Optional" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "任意" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "선택 사항" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "可选" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "選填" } }
+      }
+    },
+    "Padding: %@" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "パディング：%@" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "패딩: %@" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "边距：%@" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "邊距：%@" } }
+      }
+    },
+    "Photos will be exported as JPEG files." : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "写真はJPEGファイルとして書き出されます" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진이 JPEG 파일로 내보내집니다" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "照片将导出为 JPEG 文件" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "照片將匯出為 JPEG 檔案" } }
+      }
+    },
+    "Photos will be saved to your iOS Photo Library." : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "写真はiOSフォトライブラリに保存されます" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진이 iOS 사진 보관함에 저장됩니다" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "照片将保存到你的相册" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "照片將儲存到你的相簿" } }
+      }
+    },
+    "PhotixMark" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "PhotixMark" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "PhotixMark" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "PhotixMark" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "PhotixMark" } }
+      }
+    },
+    "Preview failed: %@" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレビュー失敗：%@" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "미리보기 실패: %@" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "预览失败：%@" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "預覽失敗：%@" } }
+      }
+    },
+    "Processing %lld / %lld" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "処理中 %lld / %lld" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처리 중 %lld / %lld" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "处理中 %lld / %lld" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "處理中 %lld / %lld" } }
+      }
+    },
+    "Save All to Photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべて写真に保存" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모두 사진 앱에 저장" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "全部保存到相册" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "全部儲存到相簿" } }
+      }
+    },
+    "Save Current to Photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "現在の写真を保存" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 사진 저장" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "保存当前照片到相册" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "儲存目前照片到相簿" } }
+      }
+    },
+    "Saved" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "保存しました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "저장됨" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已保存" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已儲存" } }
+      }
+    },
+    "Saved to photo library" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "フォトライブラリに保存しました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진 보관함에 저장됨" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已保存到相册" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已儲存到相簿" } }
+      }
+    },
+    "Secondary Text" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "サブテキストカラー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "보조 텍스트 색상" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "副文本颜色" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "副文字顏色" } }
+      }
+    },
+    "Select Photos" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "写真を選択" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사진 선택" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "选择照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "選擇照片" } }
+      }
+    },
+    "Shadow" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "影" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그림자" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "阴影" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "陰影" } }
+      }
+    },
+    "Show Logo" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ロゴを表示" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로고 표시" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "显示 Logo" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "顯示 Logo" } }
+      }
+    },
+    "Shutter" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "シャッター" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "셔터" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "快门" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "快門" } }
+      }
+    },
+    "Template Settings" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "テンプレート設定" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "템플릿 설정" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "模板设置" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "範本設定" } }
+      }
+    },
+    "Templates" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "テンプレート" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "템플릿" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "模板" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "範本" } }
+      }
+    },
+    "Text Color" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "テキストカラー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "텍스트 색상" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "文字颜色" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "文字顏色" } }
+      }
+    },
+    "10 Templates" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "10種のテンプレート" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "10가지 템플릿" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "10 款模板" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "10 款範本" } }
+      }
+    },
+    "100% Private" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "100%プライバシー保護" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "100% 프라이버시" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "100% 隐私" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "100% 隱私" } }
+      }
+    },
+    "Visible EXIF Fields" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "表示するEXIFフィールド" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "표시할 EXIF 필드" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "显示的 EXIF 字段" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "顯示的 EXIF 欄位" } }
+      }
+    },
+    "%lld photo(s) exported" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "%lld 枚の写真を書き出しました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%lld장 내보내기 완료" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已导出 %lld 张照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已匯出 %lld 張照片" } }
+      }
+    },
+    "%lld photo(s) imported" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "%lld 枚の写真を読み込みました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%lld장 가져오기 완료" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已导入 %lld 张照片" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已匯入 %lld 張照片" } }
+      }
+    },
+    "%lld photo(s) saved to library" : {
+      "localizations" : {
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "%lld 枚の写真をライブラリに保存しました" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%lld장 사진 보관함에 저장됨" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已保存 %lld 张照片到相册" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "已儲存 %lld 張照片到相簿" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

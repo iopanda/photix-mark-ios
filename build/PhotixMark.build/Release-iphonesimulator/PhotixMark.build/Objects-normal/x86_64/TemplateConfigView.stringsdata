@@ -1,0 +1,152 @@
+{
+  "source": "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/TemplateConfig/TemplateConfigView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Visible EXIF Fields",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Colors",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Logo",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shadow",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Blur",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Layout",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Brand",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Model",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lens",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Focal Length",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aperture",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shutter",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "ISO",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date / Time",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Logo",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable Shadow",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Blur Radius: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Padding: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 82
+        }
+      }
+    ]
+  },
+  "version": 1
+}

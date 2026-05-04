@@ -1,0 +1,40 @@
+{
+  "source": "/Users/xiaoyu.a.sun/Documents/git/github/iopanda/PhotixMark/PhotixMark/Sources/Presentation/Screens/BrandLogo/BrandLogoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No brands detected in imported photos.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detected Brands",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Default Logo",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 91
+        }
+      }
+    ]
+  },
+  "version": 1
+}
