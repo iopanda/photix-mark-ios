@@ -188,11 +188,19 @@ public final class EditorViewModel: ObservableObject {
     // MARK: - Apply to all / selected
 
     public func applyToAll() async {
+        for item in photoItems {
+            imageStates[item.id, default: ImageState()].templateId = selectedTemplateId
+            imageStates[item.id, default: ImageState()].userOptions = currentOptions
+        }
         await applyToItems(photoItems)
     }
 
     public func applyToSelected() async {
         let items = photoItems.filter { selectedForApply.contains($0.id) }
+        for item in items {
+            imageStates[item.id, default: ImageState()].templateId = selectedTemplateId
+            imageStates[item.id, default: ImageState()].userOptions = currentOptions
+        }
         await applyToItems(items)
     }
 
